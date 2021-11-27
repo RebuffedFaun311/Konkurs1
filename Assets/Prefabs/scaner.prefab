@@ -58,7 +58,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 927e31bdb5e847e4182288dbbca2f091, type: 3}
+  - {fileID: 2100000, guid: 76d9afd72e0cfb14cb8dea2438f6344a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -137,7 +137,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: 927e31bdb5e847e4182288dbbca2f091, type: 3}
+  - {fileID: 2100000, guid: 97096623279345745a9caf54ecb46742, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -292,15 +292,15 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.01
-  far clip plane: 1
-  field of view: 60
+  far clip plane: 1.75
+  field of view: 59.716038
   orthographic: 0
   orthographic size: 0.06975056
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
+    m_Bits: 256
+  m_RenderingPath: 0
   m_TargetTexture: {fileID: 8400000, guid: b5f1784e231b5004a85c8ee884251829, type: 2}
   m_TargetDisplay: 0
   m_TargetEye: 3
@@ -369,7 +369,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -876546973899608171, guid: 927e31bdb5e847e4182288dbbca2f091, type: 3}
+  - {fileID: 2100000, guid: 97096623279345745a9caf54ecb46742, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
