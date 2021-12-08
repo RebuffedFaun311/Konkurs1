@@ -9,6 +9,7 @@ TagManager:
   - Test1
   - projectile
   - FxTemporaire
+  - kamni
   layers:
   - Default
   - TransparentFX
