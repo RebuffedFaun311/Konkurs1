@@ -15,27 +15,27 @@ PrefabInstance:
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: massa
-      value: 67
+      value: '2 '
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: molmassa
-      value: 67
+      value: '195,08 '
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: kolNetronov
-      value: 12345345
+      value: '117 '
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: kolProtonov
-      value: 5477
+      value: '78 '
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: kolElectronv
-      value: 535
+      value: '78 '
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885341, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}

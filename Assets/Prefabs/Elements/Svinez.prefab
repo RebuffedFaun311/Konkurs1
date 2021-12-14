@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &7826974589813962262
+--- !u!1001 &8569929530079243998
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: name
-      value: "\u0417\u043E\u043B\u043E\u0442\u043E"
+      value: "\u0421\u0432\u0438\u043D\u0435\u0446"
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
@@ -20,27 +20,27 @@ PrefabInstance:
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: molmassa
-      value: '196,96 '
+      value: 207,2
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: kolNetronov
-      value: '114 '
+      value: 125
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: kolProtonov
-      value: '79 '
+      value: 82
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: kolElectronv
-      value: '79 '
+      value: 82
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885341, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: m_Name
-      value: Gold
+      value: Svinez
       objectReference: {fileID: 0}
     - target: {fileID: 2935026704295963367, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
@@ -50,17 +50,17 @@ PrefabInstance:
     - target: {fileID: 2935026704295963367, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 64.25168
+      value: 66.645004
       objectReference: {fileID: 0}
     - target: {fileID: 2935026704295963367, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.6352324
+      value: 6.781642
       objectReference: {fileID: 0}
     - target: {fileID: 2935026704295963367, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 249.9647
+      value: 248.22289
       objectReference: {fileID: 0}
     - target: {fileID: 2935026704295963367, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
@@ -101,6 +101,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1fd6708390e1f47499c57ce8f1ef6122, type: 2}
+      objectReference: {fileID: 2100000, guid: ec8f07218e6a1334faf3d7ce2435ab91, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45813357fde9b284ea73cdf80974b8c7, type: 3}
