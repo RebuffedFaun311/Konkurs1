@@ -10,37 +10,37 @@ PrefabInstance:
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: name
-      value: "\u0421\u0432\u0438\u043D\u0435\u0446"
+      value: "\u041C\u0438\u043D\u0435\u0440\u0430\u043B"
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: massa
-      value: '6 '
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: molmassa
-      value: 207,2
+      value: ??
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: kolNetronov
-      value: 125
+      value: ??
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: kolProtonov
-      value: 82
+      value: ??
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885318, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: kolElectronv
-      value: 82
+      value: ??
       objectReference: {fileID: 0}
     - target: {fileID: 2589745227256885341, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: m_Name
-      value: Svinez
+      value: Mineral
       objectReference: {fileID: 0}
     - target: {fileID: 2935026704295963367, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
@@ -60,7 +60,7 @@ PrefabInstance:
     - target: {fileID: 2935026704295963367, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 248.22289
+      value: 247.6
       objectReference: {fileID: 0}
     - target: {fileID: 2935026704295963367, guid: 45813357fde9b284ea73cdf80974b8c7,
         type: 3}
@@ -101,6 +101,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: ec8f07218e6a1334faf3d7ce2435ab91, type: 2}
+      objectReference: {fileID: 2100000, guid: 290e63a3e84683547a238b8419d2e063, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45813357fde9b284ea73cdf80974b8c7, type: 3}

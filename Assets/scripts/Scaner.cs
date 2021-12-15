@@ -30,11 +30,11 @@ public class Scaner : MonoBehaviour
 
     public void InfoUpdate(Kamen kam){
         Table_name.text = kam.name;
-        Table_massa.text = kam.massa;
-        Table_molmassa.text = kam.molmassa;
-        Table_kolElectronv.text = kam.kolElectronv ;
-        Table_kolProtonov.text = kam.kolProtonov;
-        Table_kolNetronov.text = kam.kolNetronov;
+        Table_massa.text = kam.massa + " kg";
+        Table_molmassa.text = kam.molmassa + " mol";
+        Table_kolElectronv.text = kam.kolElectronv + " e" ;
+        Table_kolProtonov.text = kam.kolProtonov + " p";
+        Table_kolNetronov.text = kam.kolNetronov + " n";
     }
 
     public void InfoHide(){

@@ -69,7 +69,7 @@ MonoBehaviour:
   hoverSphereRadius: 0.075
   hoverLayerMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 8503
   hoverUpdateInterval: 0.1
   useControllerHoverComponent: 1
   controllerHoverComponent: tip
@@ -210,7 +210,7 @@ MonoBehaviour:
   hoverSphereRadius: 0.075
   hoverLayerMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 8503
   hoverUpdateInterval: 0.1
   useControllerHoverComponent: 1
   controllerHoverComponent: tip

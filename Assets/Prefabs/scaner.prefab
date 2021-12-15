@@ -183,7 +183,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2122190839621784970}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.00050063}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8160277934476589521}
@@ -191,8 +191,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 133.2, y: -169.79}
-  m_SizeDelta: {x: 25.487366, y: 20.858528}
+  m_AnchoredPosition: {x: 103.74, y: -169.79}
+  m_SizeDelta: {x: 54.945854, y: 20.858528}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &3149881108736635412
 CanvasRenderer:
@@ -339,7 +339,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4228932232164314833}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.00050063}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8160277934476589521}
@@ -347,8 +347,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 138.63, y: -211.51}
-  m_SizeDelta: {x: 20.054153, y: 20.858528}
+  m_AnchoredPosition: {x: 103.03, y: -211.51}
+  m_SizeDelta: {x: 55.649826, y: 20.858528}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &3444022517174800149
 CanvasRenderer:
@@ -910,7 +910,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7676727427876110991}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.00050063}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8160277934476589521}
@@ -918,8 +918,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 138.63, y: -190.65}
-  m_SizeDelta: {x: 20.054153, y: 20.858528}
+  m_AnchoredPosition: {x: 103.43, y: -190.65}
+  m_SizeDelta: {x: 55.252716, y: 20.858528}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &5341876552678605341
 CanvasRenderer:
@@ -1050,12 +1050,12 @@ MonoBehaviour:
   poseEditorExpanded: 1
   blendEditorExpanded: 1
   poseNames:
-  - DefultPose (MAIN)
+  - Scanpos (MAIN)
   overridePreviewLeftHandPrefab: {fileID: 1000013348574242, guid: 638779290bce1af49b356f33dcc6fccf,
     type: 3}
   overridePreviewRightHandPrefab: {fileID: 1000010304998954, guid: 6def53d002137b747aec0b29551e0e25,
     type: 3}
-  skeletonMainPose: {fileID: 11400000, guid: 1917bfc36c7a57a458e639a742a3adb0, type: 2}
+  skeletonMainPose: {fileID: 11400000, guid: d9bc34b1da8953046a103ddc3364acbb, type: 2}
   skeletonAdditionalPoses: []
   showLeftPreview: 0
   showRightPreview: 0
@@ -1083,7 +1083,7 @@ MonoBehaviour:
   hideControllerOnAttach: 0
   handAnimationOnPickup: 0
   setRangeOfMotionOnPickup: -1
-  useHandObjectAttachmentPoint: 1
+  useHandObjectAttachmentPoint: 0
   attachEaseIn: 0
   snapAttachEaseInCurve:
     serializedVersion: 2
