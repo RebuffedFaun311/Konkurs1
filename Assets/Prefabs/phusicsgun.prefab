@@ -404,6 +404,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6830466712579606563}
+  - component: {fileID: 7150489431625348998}
+  - component: {fileID: 8657876076483281196}
   m_Layer: 0
   m_Name: phusicsgun
   m_TagString: Untagged
@@ -419,8 +421,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6161313404612006553}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 63.743774, y: 7.74, z: 246.34605}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.22175, y: 0.22175, z: 0.22175}
   m_Children:
   - {fileID: 7690767018744419142}
   - {fileID: 4219982438165290985}
@@ -433,6 +435,32 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7150489431625348998
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6161313404612006553}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.988243, y: 0.7735405, z: 0.55392665}
+  m_Center: {x: 0.4554593, y: 0.40675548, z: 0.01465666}
+--- !u!65 &8657876076483281196
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6161313404612006553}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.31523946, y: 0.5327522, z: 0.27627486}
+  m_Center: {x: -0.6796353, y: -0.23362216, z: 0.024393259}
 --- !u!1 &6890482448874088624
 GameObject:
   m_ObjectHideFlags: 0
